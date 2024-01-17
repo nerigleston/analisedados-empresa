@@ -84,7 +84,7 @@ def main():
         "Contagem de Capital": plot_capital_count,
         "Distribuição de Empresas por Tamanho": plot_size_distribution,
         "Combinação de Capital e Tamanho": plot_combination,
-        "Maior e Menor do que 100.000": plot_capital_distribution
+        "Ativos Permanentes Maior ou Menor que 100.000": plot_capital_distribution
     }
 
     # Selecionando a página
